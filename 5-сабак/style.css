@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header ul {
+    margin: 0;
+    background-color: burlywood;
+    text-align: center;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+
+}
+.header ul a {
+    text-decoration: none;
+    font-weight: bold;
+    color: maroon;
+}
+.content-main {
+    background-color:mediumpurple ;
+    height: 700px;
+    margin: 0;
+    font-size: 44;
+    text-align: center;
+}
+.content-main span {
+    font-size: 44;
+    font-weight: bold;
+    
+}
+.content-about {
+    background-color:rgb(10, 0, 31) ;
+    height: 400px;
+    margin: 0;
+    font-size: 66;
+    text-align: center;
+    color: cornsilk;
+}
+.content-contact {
+    background-color:mediumpurple ;
+    height: 700px;
+    margin: 0;
+    font-size: 44;
+    text-align: center;
+    font-weight: bolder;
+}
+.footer {
+    background-color:mistyrose;
+    text-align: center;
+    color: navy;
+    padding: 20px;
+    font-weight: bold;
+}
